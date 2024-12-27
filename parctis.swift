@@ -20,3 +20,6 @@
 print("Enter a number: ", terminator: "")
 let number = Int(readLine() ?? "") ?? 0
 print("You entered: \(number)")
+
+
+var a: Int=Int(readLine() ?? "") ?? 0
