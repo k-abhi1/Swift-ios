@@ -22,3 +22,12 @@ else if a<=40 && a>=30{
 else{
     print("F")
 }
+
+var n=0;
+if(n==1)
+{
+    print("n is true");
+}
+else{
+    print("n is false");
+}
