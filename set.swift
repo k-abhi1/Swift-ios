@@ -10,6 +10,8 @@ print(set1)
 set1.remove(1)
 print(set1)
 
+
+
 for i in set1{
     print(i)
 }
