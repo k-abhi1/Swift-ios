@@ -28,6 +28,3 @@ print(set1.union(arr1))
 print(set1.subtract(arr1))
 print(set1.intersection(arr1))
 print(set1.symmetricDifference(arr1))
-
-
-
